@@ -1,0 +1,6 @@
+github.com/lair-framework/api-server v1.3.0 h1:xE5aF8qq1rKOl5gMpKxc1Ft4FUsVm+C1ClXAg0o+CSI=
+github.com/lair-framework/api-server v1.3.0/go.mod h1:m0FJhVfXAAffNL7R2+3NORaMf1cM+SFx/ckNSez28mM=
+github.com/lair-framework/go-lair v0.0.0-20150910035939-425077e40025 h1:0KHxr3kF7WiXPmWgLFCR6P7uOOL2EzTEfQBBwGi3IL0=
+github.com/lair-framework/go-lair v0.0.0-20150910035939-425077e40025/go.mod h1:qxAr/C3TA0gxtMI3723tSQz6G60hErw1/1/jru7vUt4=
+github.com/lair-framework/go-msf v0.0.0-20150805074719-799a8647cc80 h1:jt+5S/KST4LlQeHi67ZTVI1QkBo6fKubNTbbtRl+6dA=
+github.com/lair-framework/go-msf v0.0.0-20150805074719-799a8647cc80/go.mod h1:4Y7Tx0Klx0rtUC6izQJH+bk1icMemuQ0zdGJmpz0e9Q=

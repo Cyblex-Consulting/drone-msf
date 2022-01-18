@@ -71,7 +71,7 @@ func buildProject(data *msf.Data, projectID string, tags []string) (*lair.Projec
                         host.Services = append(host.Services, service)
                 }
                 os := lair.OS{}
-                oos.Tool = "Metasploit"
+                os.Tool = "Metasploit"
                 os.Weight = 1
                 os.Fingerprint = h.OsName + " " + h.OsFlavor + " " + h.OsSp + " " + h.OsLang + " " + h.Arch
                 host.OS = os
